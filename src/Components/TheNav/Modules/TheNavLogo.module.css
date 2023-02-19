@@ -1,0 +1,17 @@
+.nav__logo {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background-color: #61265A;
+}
+
+.nav__logo>img {
+    width: 60%;
+}
+
+.nav__logo-active {
+    animation: rotate-center 1401ms linear infinite;
+}

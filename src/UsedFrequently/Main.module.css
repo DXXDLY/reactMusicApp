@@ -1,0 +1,76 @@
+.main {
+    width: 100%;
+    background-color: #FAFAFE;
+    border-radius: 30px;
+    margin: 9px;
+}
+
+.main__content {
+    width: 100%;
+    display: block;
+    position: relative;
+    padding: 45px 35px;
+} 
+
+.main__content_trending {
+    margin-top: 44px;
+}
+
+.main__content_trending>p {
+    color: #2D2E37;
+    font-weight: 500;
+    font-size: 2.4em;
+}
+
+.main__content_trending_artist_title {
+    margin-top: 21px;
+}
+
+.main__content_search {
+    width: 30%;
+    display: flex;
+    align-items: center;
+}
+
+.main__content_title {
+    margin-top: 25px;
+    display: flex;
+    justify-content: center
+}
+
+.main__content_title_liked {
+    border-top-right-radius: 28px;
+    border-top-left-radius: 28px;
+    padding: 15px;
+    min-height: 200px;
+    background-color: #70a1f1fc;
+}
+
+.main__content_title>p {
+    color: #2D2E37;
+    font-weight: 500;
+    font-size: 2.875em;
+}
+
+.title_main__content {
+    color: #2D2E37;
+    font-weight: 500;
+    font-size: 2.4em;
+}
+
+.artist_Title {
+    position: absolute;
+    padding: 25px 35px;
+    color: #2D2E37;
+    font-weight: 500;
+    font-size: 1.8em;
+}
+
+.playlist {
+    margin-top: 20px;
+}
+
+.playlistTrackTitle {
+    padding-top: 35px;
+    padding-left: 35px;
+}

@@ -1,0 +1,15 @@
+.absolute {
+    position: absolute;
+    z-index: 20;
+    width: 150px;
+    height: 180px;
+    background-color: rgb(14, 14, 14);
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+}
+
+.menu__li {
+    margin-top: 15px;
+    cursor: pointer;
+}

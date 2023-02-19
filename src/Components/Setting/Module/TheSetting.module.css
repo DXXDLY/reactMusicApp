@@ -1,0 +1,40 @@
+.mainProfileContent>h3 {
+    margin-left: 35px;
+    margin-bottom: 10px;
+}
+
+.setting_main {
+    padding: 45px 35px;
+}
+
+.nameProfile {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 35px;
+}
+
+.Title_SettingBlock {
+    color: #2D2E37;
+    font-weight: 500;
+    font-size: 2.4em;
+}
+
+.imageProfile>img {
+    border-radius: 10px;
+    width: 100%;
+    height: 240px;
+    object-fit: cover;
+}
+
+.imageProfile {
+    display: flex;
+    width: 300px;
+}
+
+.exit {
+    cursor: pointer;
+}
+
+.infoProfile {
+    padding: 15px 35px;
+}
